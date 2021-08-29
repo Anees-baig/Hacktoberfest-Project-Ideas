@@ -15,6 +15,9 @@ Machine Learning Projects Which Impacts at Covid Times
 2. The Repo will be added with code of Conduct and Detailed Readme of the project 
 3. Please Star this Repo and Fork the Repo 
 4. optional request follow me in Github for the above full project (www.github.com/Anees-Baig)
+5. The Above Repo consists of Some Raw data like Code of Conduct and Detailed Readme. form of the Project 
+
+
 
 ## Front End Ideas
 
