@@ -8,6 +8,14 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 ![I have an idea](https://i.imgur.com/rEXOauT.png)
 
+
+Machine Learning Projects Which Impacts at Covid Times
+
+1. Patient Monitoring System using AI in Viral And Infectious Cases 
+2. The Repo will be added with code of Conduct and Detailed Readme of the project 
+3. Please Star this Repo and Fork the Repo 
+4. optional request follow me in Github for the above full project (www.github.com/Anees-Baig)
+
 ## Front End Ideas
 
 ### HTML & CSS
